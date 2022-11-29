@@ -29,7 +29,7 @@ o.svg"
         </div>
       </div>
       <a
-        href="https://mats-js.github.io/meet/privacy.html"
+        href="https://micolCODES.github.io/meet/privacy.html"
         rel="nofollow noopener"
       >
         Privacy policy
